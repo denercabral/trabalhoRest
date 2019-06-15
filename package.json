@@ -1,4 +1,8 @@
 {
+      "scripts": {
+ "start": "node trabalho.js"
+ },
+  
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
